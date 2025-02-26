@@ -18,7 +18,7 @@ This project focuses on generating personalized content using LSTM-based generat
 
 Clone the repository:
 
-1. git clone https://github.com/your-username/project-repo.git
+1. git clone https://github.com/gmandloi27/Personalized-Content-Generation-Using-LSTM-Based-Generative-Models
 
 Install dependencies:
 
